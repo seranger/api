@@ -1,0 +1,92 @@
+[
+    {
+        "firstName": "Surur",
+        "lastName": "Samaai",
+        "favHobby": "Coding",
+        "criminal":false,
+        "dreamCars": [
+            {
+                "carName": "BMW",
+                "engineCapacity": "2.0",
+                "carModel": "X5"
+            },
+            {
+                "carName": "Audi",
+                "engineCapacity": "2.0",
+                "carModel": "Q7"
+            }
+        ]
+    },
+    {
+        "firstName": "Ibi",
+        "lastName": "Karlie",
+        "favHobby": "Mast Erbating",
+        "criminal":true,
+        "dreamCars": [
+            {
+                "carName": "BMW",
+                "engineCapacity": "5.8",
+                "carModel": "M3"
+            },
+            {
+                "carName": "Hilux Bakkie",
+                "engineCapacity": "2.8",
+                "carModel": "G6"
+            }
+        ]
+    },
+    {
+        "firstName": "Abdul",
+        "lastName": "Felton",
+        "favHobby": "Mo Lesting",
+        "criminal":true,
+        "dreamCars": [
+            {
+                "carName": "Mercedes",
+                "engineCapacity": "2.0",
+                "carModel": "AMG G63"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity": "2.0",
+                "carModel": "Landcruiser 79"
+            }
+        ]
+    },
+    {
+        "firstName": "Mikey",
+        "lastName": "Sedick",
+        "favHobby": "Kork Sucking",
+        "criminal":false,
+        "dreamCars": [
+            {
+                "carName": "BMW",
+                "engineCapacity": "2.0",
+                "carModel": "M4"
+            },
+            {
+                "carName": "Audi",
+                "engineCapacity": "2.0",
+                "carModel": "S3"
+            }
+        ]
+    },
+    {
+        "firstName": "Ozzi",
+        "lastName": "Meyer",
+        "favHobby": "Bum Stuff",
+        "criminal":false,
+        "dreamCars": [
+            {
+                "carName": "Mitsubishi",
+                "engineCapacity": "2.0",
+                "carModel": "Lancer"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity": "2.0",
+                "carModel": "Subra"
+            }
+        ]
+    }
+]
